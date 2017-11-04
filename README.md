@@ -1,2 +1,3 @@
-# wap-ui
-Free UI framework
+# Wap UI framework
+
+By [Wapgee Corporation](http://www.wapgee.com)
